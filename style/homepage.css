@@ -1,3 +1,15 @@
-body {
+.body {
     font-family: sans-serif;
+}
+
+.header-section {
+    text-align: center;
+}
+
+.header-container {
+    border: 10px solid black;
+}
+
+.about-section {
+    text-align: center;
 }
