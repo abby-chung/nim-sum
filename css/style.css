@@ -1,5 +1,5 @@
 .body{
-    font-family: sans-serif;
+    font-family: monterrat;
 }
 
 .header-section{
@@ -7,11 +7,26 @@
 }
 
 .header-container{
-    border: 10px solid black;
+    box-sizing: border-box;
+    width: 25%;
+    border: 10px solid #183047;
+    border-width: 6px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
 }
 
 .about-section{
     text-align: center;
+}
+
+.navigation-bar{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .wrapper{
